@@ -4,10 +4,10 @@ import woman2 from "../media/woman2.png";
 import woman3 from "../media/woman3.png";
 import Navbar from "./Navbar";
 
-function Hero() {
+function Hero({ setMenu }) {
   return (
     <div className="h-screen ">
-      <Navbar />
+      <Navbar setMenu={setMenu} />
       <div className="flex flex-col items-center justify-center mt-10 space-y-4 lg:space-y-7">
         <h1 className="tracking-wide text-pink-700 lg:text-2xl">
           #WeAreGirlPowerTalk

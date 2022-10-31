@@ -1,5 +1,4 @@
 import React from "react";
-import talkImg from "../media/storyShare.png";
 import talk1 from "../media/story1.png";
 import talk2 from "../media/story2.png";
 function ShareStory() {

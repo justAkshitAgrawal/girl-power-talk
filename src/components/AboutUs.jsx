@@ -38,7 +38,7 @@ function AboutUs() {
             <FiInfo />
             <span>About Us</span>
           </h1>
-          <h1 className="pt-10 mt-5 text-sm leading-relaxed text-white lg:text-lg lg:max-w-[20vw]">
+          <h1 className="pt-8 mt-5 text-sm leading-relaxed text-white lg:text-lg lg:max-w-[20vw]">
             We believe that achieving true gender equality requires a radical
             shift in the way young women are mentored in the workplace. At Girl
             Power Talk, we are passionately dedicated to empowering women-as
